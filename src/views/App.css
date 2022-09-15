@@ -1,0 +1,75 @@
+/* Chứa css cho các components  */
+
+ul{
+    margin: 0;
+  padding: 0;
+  margin-left: 30px;
+}
+
+nav{
+    background-color: rgb(46, 42, 42);
+    width: 100%;
+    position: fixed;
+}
+li{
+    display: inline-block;
+
+}
+
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: inherit;
+display: block;
+padding: 8px;
+
+}
+
+ul li:hover{
+    background-color: #aaa;
+     padding: inherit;
+}
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
+    padding: 80px 20px 20px 30px;
+
+}
+
+img{
+width: 100%;
+}
+.active{
+    background-color: rgba(255, 255, 0, 0.747);
+    opacity: 200;   
+
+}
+.card{
+    text-align: center;
+box-shadow: 5px 5px 5px #aaa;
+background-color: #dddddd7a;
+
+}
+
+button{
+    width: 100%;
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+}
+h4{
+    margin: 10px 0 0 0 ;
+}
+
+.title{
+    color: rgb(168, 165, 165);
+    margin: 10px 0 0 0 ;
+}
+ 
+footer{
+    text-align: center;
+    background-color: rgba(255, 255, 0, 0.747);
+    padding: 7px;
+
+}
