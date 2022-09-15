@@ -5,7 +5,7 @@ import React, { Component } from 'react'
 export default class Navigation extends Component {
   render() {
     return (
-        <nav id='nav'>
+        <nav >
             <ul>
                 <li><a className='active' href='#home'>Home</a></li>
                 <li><a href='#news'>News</a></li>
