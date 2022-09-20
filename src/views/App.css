@@ -1,8 +1,9 @@
 /* Chứa css cho các components  */
 
+
+
 ul{
     margin: 0;
-  padding: 0;
   margin-left: 30px;
 }
 
@@ -24,19 +25,18 @@ ul li a{
     color: #fff;
     padding: inherit;
 display: block;
-padding: 8px;
+padding: 15px;
 
 }
 
 ul li:hover{
     background-color:rgba(253, 253, 56, 0.747);
-     padding: inherit;
 }
 .container{
     display: grid;
     grid-template-columns: auto auto auto;
     grid-gap: 10px;
-    padding: 80px 20px 20px 30px;
+    padding: 80px 160px 20px 160px;
 
 }
 
@@ -53,17 +53,18 @@ width: 100%;
 box-shadow: 5px 5px 5px #aaa;
 background-color: #dddddd7a;
 max-width: 386px;
-border-radius: 30px;
+border-radius: 10px;
 
 
 }
 
-button{
+/* button{
     width: 100%;
     background-color: black;
     color: #fff;
-    padding: 10px;
-}
+    padding: 15px;
+    
+} */
 h4{
     margin: 10px 0 0 0 ;
     color: rgb(134, 167, 228);
@@ -86,9 +87,7 @@ footer{
 
 }
 
-button{
-    cursor: pointer;
-}
+
 
 button:hover{
     background-color: rgba(253, 253, 56, 0.747);
@@ -99,8 +98,8 @@ button:hover{
 .image{
     max-height: 550px;
     overflow: hidden;
-    border-top-left-radius: 30px;
-    border-top-right-radius: 30px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 
 }
 
@@ -111,11 +110,13 @@ button:hover{
 .buttons{
     display: grid;
     grid-template-columns: auto auto ;
-    grid-gap:5px;
+    grid-gap:10px;
+    padding: 10px;
 }
 
 .button {
-    /* padding: 15px 25px; */
+    padding: 15px;
+
     font-size: 20px;
     text-align: center;
     cursor: pointer;
@@ -126,21 +127,28 @@ button:hover{
     border-radius: 15px;
     box-shadow: 0 5px #999;
     width: auto;
+    transition-duration: 0.05s;
+
   }
   
-  .button:hover {background-color: rgb(134, 167, 228)}
+  .button:hover {background-color: rgb(110, 158, 246);
+    transition-duration: 0.05s;
+    box-shadow: 0 5px rgb(116, 116, 116);
+}
+  
   
   .button:active {
-    background-color: rgb(134, 167, 228);
-    box-shadow: 0 5px #666;
+    background-color: rgb(79, 134, 237);
     transform: translateY(4px);
+    box-shadow: none;
+    transition-duration: 0.05s;
   }
 
   .fa-play{ margin-right: 5px;}
 
   .pagination{
     margin: 10px;
-    margin-left: 35%;
+    margin-left: 40%;
 
   }
 
@@ -158,3 +166,7 @@ button:hover{
   }
   
   .pagination a:hover:not(.active) {background-color: #ddd;}
+
+  .column{
+    padding: 10px 10px;
+  }
