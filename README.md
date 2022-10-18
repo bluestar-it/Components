@@ -54,9 +54,9 @@ Finally, run `yarn test` or `npm test` after preparing unit code and test file t
 You will find in this session:
 * A simple problem will be solved by Hash algorithm, and we will use JEST to test the accuracy of it
 * Steps to test:
-    1. Using Brute Force algorithm to create test case and correct answer
-    2. Using test case to test Hash algorithm
-    3. See the test result
+    * Using Brute Force algorithm to create test case and correct answer
+    * Using test case to test Hash algorithm
+    * See the test result
     
     ![Hashing-test](https://github.com/viettien1602/swt301-testing-with-jest/blob/main/images/hashing-test.jpg)
 
@@ -66,23 +66,23 @@ You will find in this session:
 You will find in this session:
 * A simple implementation of blockchain structure. If you want to get more details to the blockchain, find out at: [BlockChain details](https://youtube.com/playlist?list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4)
 * Test cases to test the blockchain created with JEST framework:
-    1. A new block added must have hash matching difficulty
-    2. A new block added must have prevHash matching the hash of last block of blockchain
-    3. A new block added must have data immutable
-    4. Not changing any data, the whole blockchain should return valid status
-    5. Changing data of block 1 only, The whole blockchain should return invalid status
-    6. Changing data and hash of block 1, The whole blockchain should return invalid status
+    * A new block added must have hash matching difficulty
+    * A new block added must have prevHash matching the hash of last block of blockchain
+    * A new block added must have data immutable
+    * Not changing any data, the whole blockchain should return valid status
+    * Changing data of block 1 only, The whole blockchain should return invalid status
+    * Changing data and hash of block 1, The whole blockchain should return invalid status
 #### View more explanation and details code in [data-structure.md](https://github.com/viettien1602/swt301-testing-with-jest/blob/main/testing-js/readme-details/data-structure.md)
 
 ## Setup - teardown demo in JEST
 You will find in this session:
 * A simple implementation of Jest Setup and Teardown Functions, which help to set up some work that needs to happen before tests run and some work that needs to happen after tests run.
 * Test cases with cities database and food database later too see how to advoid calling init() and clear() method at the begining and at the end of each of these test
-    1. A repeating setup for 3 test
-    2. A one-time setup - declare once and using for all class test
-    3. Describe - testing class inside describe block only.
-    4. Order of testing is situation include all beforeEach(), afterEach(), beforeAll(), afterAll() and describe block
-    5. One more order of execution.
+    * A repeating setup for 3 test
+    * A one-time setup - declare once and using for all class test
+    * Describe - testing class inside describe block only.
+    * Order of testing is situation include all beforeEach(), afterEach(), beforeAll(), afterAll() and describe block
+    * One more order of execution.
 
     ![Setup - teardown demo](https://github.com/viettien1602/swt301-testing-with-jest/blob/main/images/setup-and-teardown.jpg)
 
