@@ -3,9 +3,9 @@
 ### You will find in this repo the following stuff:
 [Testing JS](https://github.com/bluestar-it/Components#testing-react-using-jest-framework)
  using JEST framework)
-* The "data-structure.js" file - A simple implementation of blockchain structure
-* The BruteForce.js & Hashing.js file - Contain 2 different algorithms to find position of a Substring
-* The "mock-function-demo.js" file - A simple implementation of Jest Mock Function
+* The `data-structure.js` file - A simple implementation of blockchain structure
+* The `BruteForce.js` & `Hashing.js` file - Contain 2 different algorithms to find position of a Substring
+* The `mock-function-demo.js` file - A simple implementation of Jest Mock Function
 * Unit Test files using Jest framework
 
 ## Testing JS algorithm using JEST framework
