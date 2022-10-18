@@ -1,14 +1,19 @@
 # Welcome to Testing with JEST framework Repository: Team SWT301 FALL 2022
 
 ### You will find in this repo the following stuff:
-[Testing JS](https://github.com/bluestar-it/Components#testing-react-using-jest-framework)
- using JEST framework)
+
 * The `data-structure.js` file - A simple implementation of blockchain structure
-* The `BruteForce.js` & `Hashing.js` file - Contain 2 different algorithms to find position of a Substring
-* The `mock-function-demo.js` file - A simple implementation of Jest Mock Function
+* The `Hashing.js` - An algorithms to find position of a Substring
+* The `mock-function-demo.js` file - A simple demo of Jest Mock Function
+* The `setup-teardown` folder - A folder of test files using Jest Setup and Teardown Functions
 * Unit Test files using Jest framework
 
-## Testing JS algorithm using JEST framework
+### In this README file has some section:
+[Testing JS algorithm using JEST framework](https://github.com/viettien1602/swt301-testing-with-jest#testing-js-algorithm-using-jest-framework)
+[Testing JS data structure using JEST framework](https://github.com/viettien1602/swt301-testing-with-jest#testing-js-data-structure-basic-blockchain-implementation-using-jest-framework)
+[Setup - teardown demo in JEST](https://github.com/viettien1602/swt301-testing-with-jest#setup---teardown-demo-in-jest)
+[Mock function demo in JEST](https://github.com/viettien1602/swt301-testing-with-jest#mock-function-demo-in-jest)
+[Testing React using JEST framework](https://github.com/viettien1602/swt301-testing-with-jest#testing-react-using-jest-framework)
 
 
 ## Testing JS data structure (basic blockchain implementation) using JEST framework
