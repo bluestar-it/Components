@@ -9,11 +9,11 @@
 * Unit Test files using Jest framework
 
 ### In this README file has some section:
-#### [Testing JS algorithm using JEST framework](https://github.com/viettien1602/swt301-testing-with-jest#testing-js-algorithm-using-jest-framework)
-#### [Testing JS data structure using JEST framework](https://github.com/viettien1602/swt301-testing-with-jest#testing-js-data-structure-basic-blockchain-implementation-using-jest-framework)
-#### [Setup - teardown demo in JEST](https://github.com/viettien1602/swt301-testing-with-jest#setup---teardown-demo-in-jest)
-#### [Mock function demo in JEST](https://github.com/viettien1602/swt301-testing-with-jest#mock-function-demo-in-jest)
-#### [Testing React using JEST framework](https://github.com/viettien1602/swt301-testing-with-jest#testing-react-using-jest-framework)
+* [Testing JS algorithm using JEST framework](https://github.com/viettien1602/swt301-testing-with-jest#testing-js-algorithm-using-jest-framework)
+* [Testing JS data structure using JEST framework](https://github.com/viettien1602/swt301-testing-with-jest#testing-js-data-structure-basic-blockchain-implementation-using-jest-framework)
+* [Setup - teardown demo in JEST](https://github.com/viettien1602/swt301-testing-with-jest#setup---teardown-demo-in-jest)
+* [Mock function demo in JEST](https://github.com/viettien1602/swt301-testing-with-jest#mock-function-demo-in-jest)
+* [Testing React using JEST framework](https://github.com/viettien1602/swt301-testing-with-jest#testing-react-using-jest-framework)
 
 ## Testing JS data structure (basic blockchain implementation) using JEST framework
 You will find in this session:
