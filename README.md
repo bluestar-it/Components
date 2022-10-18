@@ -18,7 +18,7 @@
 ## Testing JS algorithm using JEST framework
 You will find in this session:
 * The code of BruteForce and Hashing - 2 basic hash algorithms to find position of a Substring
-* 
+![Hash](https://github.com/bluestar-it/Components/blob/master/img/hashing-test.jpg)
 #### View more explanation and details code in [algorithm.md](https://github.com/viettien1602/swt301-testing-with-jest/blob/main/testing-js/readme-details/algorithm.md)
 
 ## Testing JS data structure (basic blockchain implementation) using JEST framework
