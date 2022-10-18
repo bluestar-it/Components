@@ -9,7 +9,7 @@
 * `Unit Test files` using Jest framework
 
 ### In this README file has some sections:
-* [Getting started with Jest](https://github.com/viettien1602/swt301-testing-with-jest#testing-js-algorithm-using-jest-framework)
+* [Getting started with Jest](https://github.com/viettien1602/swt301-testing-with-jest#getting-started-with-jest)
 * [Testing JS algorithm using JEST framework](https://github.com/viettien1602/swt301-testing-with-jest#testing-js-algorithm-using-jest-framework)
 * [Testing JS data structure using JEST framework](https://github.com/viettien1602/swt301-testing-with-jest#testing-js-data-structure-basic-blockchain-implementation-using-jest-framework)
 * [Setup - teardown demo in JEST](https://github.com/viettien1602/swt301-testing-with-jest#setup---teardown-demo-in-jest)
@@ -57,6 +57,9 @@ You will find in this session:
     1. Using Brute Force algorithm to create test case and correct answer
     2. Using test case to test Hash algorithm
     3. See the test result
+    
+    ![Hashing-test](https://github.com/viettien1602/swt301-testing-with-jest/blob/main/images/hashing-test.jpg)
+
 #### View more explanation and details code in [algorithm.md](https://github.com/viettien1602/swt301-testing-with-jest/blob/main/testing-js/readme-details/algorithm.md)
 
 ## Testing JS data structure (basic blockchain implementation) using JEST framework
@@ -81,7 +84,7 @@ You will find in this session:
     4. Order of testing is situation include all beforeEach(), afterEach(), beforeAll(), afterAll() and describe block
     5. One more order of execution.
 
-    ![Setup - teardown demo]()
+    ![Setup - teardown demo](https://github.com/viettien1602/swt301-testing-with-jest/blob/main/images/setup-and-teardown.jpg)
 
 ## Mock function demo in JEST
 You will find in this session:
@@ -89,6 +92,9 @@ You will find in this session:
 * 2 ways of creating mock function in JEST
     * Conducting a manual mock function by overriding the original one
     * JEST framework supports us an operation to create mock function, which can mock implementation or mock the return value
+
+    ![Mockup-test](https://github.com/viettien1602/swt301-testing-with-jest/blob/main/images/mockup.jpg)
+
 #### View more explanation and details code in [mock-function.md](https://github.com/viettien1602/swt301-testing-with-jest/blob/main/testing-js/readme-details/mock-function.md)
 
 
