@@ -1,7 +1,8 @@
 # Welcome to Testing with JEST framework Repository: Team SWT301 FALL 2022
 
 ### You will find in this repo the following stuff:
-[####Testing JS](## Testing JS data structure (basic blockchain implementation) using JEST framework)
+[Testing JS](https://github.com/bluestar-it/Components#testing-react-using-jest-framework)
+ using JEST framework)
 * The "data-structure.js" file - A simple implementation of blockchain structure
 * The BruteForce.js & Hashing.js file - Contain 2 different algorithms to find position of a Substring
 * The "mock-function-demo.js" file - A simple implementation of Jest Mock Function
